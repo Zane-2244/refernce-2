@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\Demo RTV\Demo RTV\bin\Debug\Demo RTV.exe.config
+C:\Users\Zane\source\repos\Demo RTV\Demo RTV\bin\Debug\Demo RTV.exe
+C:\Users\Zane\source\repos\Demo RTV\Demo RTV\bin\Debug\Demo RTV.pdb
+C:\Users\Zane\source\repos\Demo RTV\Demo RTV\obj\Debug\Demo RTV.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\Demo RTV\Demo RTV\obj\Debug\Demo RTV.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\Demo RTV\Demo RTV\obj\Debug\Demo RTV.exe
+C:\Users\Zane\source\repos\Demo RTV\Demo RTV\obj\Debug\Demo RTV.pdb
